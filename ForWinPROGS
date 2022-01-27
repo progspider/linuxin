@@ -1,0 +1,20 @@
+=========================================================
+https://thonny.org/
+
+The latest version:
+Binary bundle for PC (Thonny+Python):
+bash <(wget -O - https://thonny.org/installer-for-linux)
+
+With pip:
+pip3 install thonny
+
+With Flatpak:
+flatpak install org.thonny.Thonny
+
+Distro packages (may not be the latest version):
+Debian, Raspbian, Ubuntu, Mint and others:
+sudo apt install thonny
+
+Fedora:
+sudo dnf install thonny
+=========================================================
